@@ -1,5 +1,5 @@
 # Internet Marketing Project
-### Instructor: Dr. Zhou
+### Instructor: Dr. Wenqi Zhou
 ### Authors: Fernanda Padilla & Julia Gittins
 
 # Dataset
